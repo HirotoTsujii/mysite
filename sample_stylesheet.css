@@ -1,7 +1,5 @@
-.container p{
-    font-size: 20px;
-    color: blue;
-}
-.background-image{
-    width: 100%;
+.firstbox{
+    height: 200px;
+    background-image:url(town0055.png);
+    background-size: cover;
 }
